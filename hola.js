@@ -6,5 +6,5 @@ const objeto = {
     series: ["Supernatural", "Doctor Who"]
 }
 console.log(objeto)
-console.log(objeto.peliculas)
-console.log(objeto.series)
+console.log('peliculas:', objeto.peliculas)
+console.log('series:', objeto.series)
